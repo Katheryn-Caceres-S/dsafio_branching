@@ -2,6 +2,11 @@ body {
   background: #342E37;
   }
 
+footer { 
+  text-align: center;
+  color: #676264;
+}
+
 .container {
   padding-top: 30px;
 } 
